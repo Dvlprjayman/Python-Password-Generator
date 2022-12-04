@@ -11,7 +11,7 @@ special_chars = string.punctuation
 
 alphabet = letters + digits + special_chars 
 
-# fix password length
+# fix password length, change vaule for longer or shorter password.
 
 pwd_length = 12
 
